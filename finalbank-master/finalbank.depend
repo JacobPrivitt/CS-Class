@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1519298694 source:d:\projects\finalbank\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<sstream>
+
+1519343358 source:e:\project\finalbank-master\finalbank-master\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<sstream>
+	<cmath>
+
