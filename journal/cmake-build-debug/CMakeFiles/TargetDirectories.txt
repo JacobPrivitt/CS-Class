@@ -1,3 +1,0 @@
-C:/Users/Milinium Falcon/CLionProjects/journal/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Milinium Falcon/CLionProjects/journal/cmake-build-debug/CMakeFiles/journal.dir
-C:/Users/Milinium Falcon/CLionProjects/journal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
